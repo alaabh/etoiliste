@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484198241952",
+    "project_id": "etoiliste-54c92",
+    "storage_bucket": "etoiliste-54c92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484198241952:android:1d23ed09b5f71cfbae5bc5",
+        "android_client_info": {
+          "package_name": "com.example.etoiliste_bouhjar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4o4JENrYKdgEhDlhqCf33FVdyeZ2t7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
